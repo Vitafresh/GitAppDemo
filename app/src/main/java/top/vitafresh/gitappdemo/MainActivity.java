@@ -7,6 +7,8 @@ import android.os.Bundle;
 
 //Second test comment
 
+//Dev branch comment
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
